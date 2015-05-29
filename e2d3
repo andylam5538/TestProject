@@ -6,7 +6,11 @@ Git ってなに
 1.gitを使って、変更履歴を自分のPCに保存しょう
 	1.sample project make
 	2.decided save place 
-	3.select save project
-	4.save
+	3.save project
+	4.Open SourceTree
+	5.make local リポジトリ
+	6.selcet save place
+	7.commit
+	
 2.ほぞんした変更履歴をアップ、ロードしよう
 3.
